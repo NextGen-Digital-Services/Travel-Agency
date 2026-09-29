@@ -56,6 +56,7 @@ export default function App() {
         <Route path="testimonials" element={<Testimonials />} />
         <Route path="faq" element={<FAQ />} />
         <Route path="contact" element={<Contact />} />
+        <Route path="plan-your-trip" element={<Contact />} />
         <Route path="privacy-policy" element={<PrivacyPolicy />} />
         <Route path="terms-and-conditions" element={<TermsConditions />} />
       </Route>
