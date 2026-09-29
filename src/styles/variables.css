@@ -1,0 +1,32 @@
+/* Italian Riviera Luxury Design Tokens */
+:root {
+  --ivory: #F7F1E5;
+  --cream: #EFE6D2;
+  --adriatic: #0E2A47;
+  --terracotta: #B5573A;
+  --gold: #C2993F;
+  --olive: #6B7040;
+  --espresso: #2A1F1A;
+  --sage: #E4E2CF;
+  --white: #FFFFFF;
+  
+  --font-heading: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Jost', system-ui, -apple-system, sans-serif;
+  
+  --border-radius-sm: 4px;
+  --border-radius-md: 6px;
+  --border-radius-lg: 12px;
+  --border-radius-arch: 200px 200px 0 0;
+  --border-radius-pill: 9999px;
+  
+  --box-shadow-sm: 0 2px 8px rgba(42, 31, 26, 0.06);
+  --box-shadow-md: 0 8px 24px rgba(42, 31, 26, 0.1);
+  --box-shadow-lg: 0 16px 40px rgba(14, 42, 71, 0.12);
+
+  --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+
+  --max-width: 1240px;
+  --header-height: 84px;
+}
